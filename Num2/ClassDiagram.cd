@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="object_cg" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQEAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAABQ=</HashCode>
+      <FileName>Num2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="creature" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAEAAAgIAAABABAAAAAAAQ=</HashCode>
+      <FileName>Num2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="magicitem" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAASAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Num2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="magic_bread" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Num2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mythical_animal" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAEAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>Num2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="humanoid_character" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAQAQ=</HashCode>
+      <FileName>Num2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="magic_character" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAgAAAAIAAEAAAAAAAQ=</HashCode>
+      <FileName>Num2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
